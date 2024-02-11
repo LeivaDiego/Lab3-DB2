@@ -1,4 +1,4 @@
-ID de Factura,Sucursal,Ciudad,Tipo de Cliente,Genero,Linea de Producto,Precio Unitario,Cantidad,Impuesto,Total,Metodo de Pago,Costo de Bienes Vendidos (COGS),Porcentaje de Margen Bruto,Ingreso Bruto,Calificacion,Fecha y hora
+id_factura,sucursal,ciudad,tipo_cliente,genero,linea_de_producto,precio,cantidad,impuesto,total,metodo_pago,cogs,porcentaje_margen,ingreso_bruto,calificacion,fecha_hora
 750-67-8428,A,Yangon,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,Ewallet,522.83,4.761904762,26.1415,9.1,2019-01-05 13:08:00
 226-31-3081,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,Cash,76.4,4.761904762,3.82,9.6,2019-03-08 10:29:00
 631-41-3108,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,Credit card,324.31,4.761904762,16.2155,7.4,2019-03-03 13:23:00
